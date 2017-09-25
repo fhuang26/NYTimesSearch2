@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">NYTimesSearch</string>
+    <string name="action_settings">Settings</string>
+    <string name="hintSearchQuery">Enter Search Query</string>
+    <string name="search">Search</string>
+    <string name="newsDesk">News Desk Values</string>
+    <string name="cb_art">Art</string>
+    <string name="cb_fashion_style">Fashion Style</string>
+    <string name="cb_sports">Sports</string>
+    <string name="title_activity_article">ArticleActivity</string>
+
+    <string-array name="datesort_array">
+        <item>From Newest to Oldest</item>
+        <item>From Oldest to Newest</item>
+        <item>None</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
